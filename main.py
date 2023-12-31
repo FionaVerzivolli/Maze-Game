@@ -1,9 +1,3 @@
-#Maze Game - CS Culminating
-#Fiona Verzivolli
-#ICS4U1
-#2023-01-07
-#K. Townshend
-
 #Turtle will be used to draw the maze.
 import turtle
 import time
